@@ -2,7 +2,7 @@
 
 A classic brick breaker game built with vanilla JavaScript and Vite.
 
-![Brick Breaker Game](/screenshot.png)
+![Brick Breaker Game](/game-screenshot.png)
 
 ## Features
 
